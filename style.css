@@ -42,15 +42,18 @@ body {
 .card-text {
   font-family: "New Tegomin";
 }
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .carousel-item {
   width: auto;
   width: auto;
   max-height: 600px;
   max-width: 600px;
 }
-.carousel-item {
-  margin-inline-start: 25%;
-}
+
 footer {
   background: black;
   padding: 20px 0;
@@ -62,4 +65,3 @@ footer {
 .home {
   background-image: url("./imges/tecnologia.png");
 }
-
