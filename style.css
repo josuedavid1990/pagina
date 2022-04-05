@@ -41,6 +41,7 @@ body {
 
 .card-text {
   font-family: "New Tegomin";
+  text-align: justify;
 }
 .center {
   display: flex;
